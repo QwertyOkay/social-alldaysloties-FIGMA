@@ -14,103 +14,35 @@ function TermsModal({ showTerms }) {
           />
           <ModalTextWrap title={'Terms & Conditions'}>
             <p>
-              Please read these Terms and Conditions ("Agreement") carefully
-              before using the Alldaysloties.com website ("Website"). This
-              Agreement sets forth the legally binding terms and conditions for
-              your use of the Website. By accessing or using the Website, you
-              agree to be bound by this Agreement.
-            </p>
-            <p>Intellectual Property</p>
-            <p>
-              Ownership: The Website and its original content, features, and
-              functionality are owned by Royal Coinage and are protected by
-              international copyright, trademark, patent, trade secret, and
-              other intellectual property or proprietary rights laws. Limited
-              License: Subject to your compliance with this Agreement, we grant
-              you a limited, non-exclusive, non-transferable, and revocable
-              license to access and use the Website for personal, non-commercial
-              purposes. Restrictions: You agree not to reproduce, distribute,
-              modify, create derivative works of, publicly display, publicly
-              perform, republish, download, store, or transmit any of the
-              material on our Website, except as permitted by this Agreement.
-            </p>
-            <p>User Responsibilities</p>
-            <p>
-              Prohibited Conduct: You agree not to engage in any conduct that
-              violates applicable laws, infringes upon the rights of others, or
-              interferes with the operation or security of the Website.
-              Prohibited conduct includes, but is not limited to:
-            </p>
-            <p>
-              Uploading or transmitting any unauthorized or harmful content.
-              Attempting to gain unauthorized access to the Website or its
-              servers. Interfering with or disrupting the Website or its
-              networks. Engaging in any activity that could damage, disable,
-              overburden, or impair the Website.
-            </p>
-            <p>
-              Account Registration: In order to access certain features of the
-              Website, you may be required to create an account. You are
-              responsible for maintaining the confidentiality of your account
-              information and for all activities that occur under your account.
-            </p>
-            <p>
-              User Submissions: If you submit any content, feedback, or
-              suggestions to us through our Website, you grant us a
-              non-exclusive, royalty-free, perpetual, and irrevocable right to
-              use, reproduce, modify, adapt, publish, translate, distribute, and
-              display such submissions in any form or medium.
-            </p>
-            <p>Disclaimer of Warranty</p>
-            <p>
-              The Website is provided on an "as-is" and "as available" basis. We
-              make no representations or warranties of any kind, express or
-              implied, regarding the operation, availability, accuracy,
-              reliability, or suitability of the Website. To the fullest extent
-              permitted by law, we disclaim all warranties, including but not
-              limited to, implied warranties of merchantability and fitness for
-              a particular purpose.
-            </p>
-
-            <p>Limitation of Liability</p>
-            <p>
-              To the maximum extent permitted by law, Royal Coinage and its
-              affiliates, officers, directors, employees, agents, and partners
-              shall not be liable for any direct, indirect, incidental,
-              consequential, or special damages arising out of or in any way
-              connected with your use of the Website or the content contained
-              therein. This limitation of liability applies to all claims,
-              whether based on contract, tort, negligence, strict liability, or
-              any other legal theory.
-            </p>
-            <p>Modifications</p>
-            <p>
-              We reserve the right to modify or replace this Agreement at any
-              time. Any changes will be effective immediately upon posting the
-              updated Agreement on the Website. Your continued use of the
-              Website after any such changes constitutes your acceptance of the
-              modified terms.
-            </p>
-            <p>Severability</p>
-            <p>
-              If any provision of this Agreement is found to be invalid or
-              unenforceable, the remaining provisions shall be enforced to the
-              fullest extent permitted by law, and the unenforceable provision
-              shall be deemed modified to the extent necessary to make it
-              enforceable.
-            </p>
-            <p>Entire Agreement</p>
-            <p>
-              This Agreement constitutes the entire agreement between you and
-              Royal Coinage regarding your use of the Website and supersedes all
-              prior and contemporaneous agreements, representations, and
-              understandings.
-            </p>
-            <p>Contact Us</p>
-            <p>
-              If you have any questions, comments, or concerns regarding these
-              Terms and Conditions, please contact us at
-              supportteam@Alldaysloties.com.
+              Welcome to AllDaySloties.com, where the slots are hot and the
+              terms are chilled. Please take a moment to read our terms and
+              conditions before proceeding. We understand that this isn't the
+              most exciting thing you'll read today, but we promise to keep it
+              light and informative. You agree to be bound by our terms and
+              conditions by using our website. If you disagree with any of the
+              terms, simply do not use the website. We will not be angry, but we
+              will be sad. To play on AllDaySloties.com, you must be at least 18
+              years old. If you aren't, go outside and play hopscotch or
+              something. To participate in our games, you must first create an
+              account. Please ensure that the information you provide is
+              accurate and truthful. We do not want any fictitious names or
+              addresses - that is simply unacceptable. We anticipate that our
+              users will be cool, calm, and collected. Any inappropriate
+              language or behavior will not be tolerated. Let's act like we're
+              all adults here. Please provide accurate payment information if
+              you are playing for real money. We are not liable for any mistakes
+              you make. Also, while we will do our best to ensure that you
+              receive your winnings, we cannot be held liable for any issues
+              beyond our control. We do not tolerate any form of cheating,
+              hacking, or another unfair advantage. We'll have to say goodbye if
+              you're caught doing anything illegal or prohibited. There will be
+              no hard feelings, but we cannot have a few bad apples spoiling the
+              bunch. We reserve the right to change our terms and conditions at
+              any time. We'll notify you of any major changes, but it's your
+              responsibility to check back for updates on a regular basis. Thank
+              you for visiting AllDaySloties.com. We promise to keep things cool
+              and entertaining around here. Now you can start spinning those
+              slots!
             </p>
           </ModalTextWrap>
         </Modal>

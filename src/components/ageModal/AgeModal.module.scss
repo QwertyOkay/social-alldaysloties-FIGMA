@@ -1,7 +1,11 @@
 .text {
-  font-weight: 300;
-  font-size: 0.9rem;
-  line-height: 1.3em;
+  // font-weight: 300;
+  // font-size: 0.9rem;
+  // line-height: 1.3em;
+  font-size: 16px;
+  line-height: 150%;
+  color: #000;
+  font-weight: 600;
 
   @media screen and (min-width: 1280px) {
     font-weight: 400;
