@@ -59,7 +59,7 @@ function Footer() {
           </div>
           <div className={styles.footerFont}>
             <small>
-              Alldaysloties.com &copy; 2022-2023 All rights reserved{' '}
+              Alldaysloties.com &copy; 2022-2023 <br></br>All rights reserved{' '}
             </small>
           </div>
         </Container>
