@@ -13,9 +13,6 @@ function Header() {
             <a href="#slots" className={styles.link}>
               Our Slots
             </a>
-            <a href="#about" className={styles.link}>
-              About
-            </a>
             <a href="#download" className={styles.link}>
               Download
             </a>

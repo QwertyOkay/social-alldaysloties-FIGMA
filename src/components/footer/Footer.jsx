@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Img18Plus from '../../images/18-plus.png';
+import Social from 'components/social';
 
 import Container from 'components/container/Container';
 import GoogleButton from 'components/googleButton/GoogleButton';
@@ -35,6 +36,9 @@ function Footer() {
             </p>
           </div>
           <div>
+            <Social />
+          </div>
+          <div>
             <ul className={styles.footerLinks}>
               <li className={styles.link}>
                 <button type="button" onClick={() => setIsOpenTerms(true)}>
@@ -52,6 +56,11 @@ function Footer() {
                 </button>
               </li>
             </ul>
+          </div>
+          <div className={styles.footerFont}>
+            <small>
+              Alldaysloties.com &copy; 2022-2023 All rights reserved{' '}
+            </small>
           </div>
         </Container>
       </footer>

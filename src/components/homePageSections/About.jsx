@@ -8,11 +8,11 @@ import GoogleButton from 'components/googleButton/GoogleButton';
 
 function Third() {
   return (
-    <Section variant="third" id="about">
+    <Section variant="third" id="download">
       <Container variant="containerMain">
         <div className={styles.textWrapThird}>
           <h1 className={styles.title}>Download slots</h1>
-          <p className={styles.text}>
+          <p className={styles.text2}>
             Irrespective of your skill level, our application adapts seamlessly
             to your needs. Through our mobile app, you can maintain your link to
             the market. Whether you're an experienced participant or a newcomer
@@ -20,10 +20,11 @@ function Third() {
             aligns with your proficiency and sustains your involvement for
             extended periods.
           </p>
-        </div>
-        <div className={styles.btn}>
           <GoogleButton />
         </div>
+        {/* <div className={styles.btn}>
+          <GoogleButton />
+        </div> */}
         <div className={styles.imgWrapThird}>
           <picture>
             <source

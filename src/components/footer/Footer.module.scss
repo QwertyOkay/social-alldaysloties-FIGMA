@@ -64,7 +64,7 @@
   text-transform: uppercase;
   font-family: 'Mulish', sans-serif;
   font-size: 16px;
-  font-weight: 800;
+  font-weight: 300;
 
   @include Animation(text-decoration);
 
@@ -76,6 +76,10 @@
 
 .footerP {
   color: #f8f5ed;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 500;
+}
+
+.footerFont {
+  color: #f8f5ed;
 }

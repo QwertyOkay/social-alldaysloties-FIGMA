@@ -6,7 +6,7 @@ import styles from './homePageSections.module.scss';
 
 function Welcome() {
   return (
-    <Section id="welcome">
+    <Section id="welcome" className={styles.SectionBg}>
       <Container variant="containerMain">
         <div className={styles.textWrap}>
           <h1 className={styles.title}>Welcome</h1>

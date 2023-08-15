@@ -7,7 +7,7 @@ import styles from './homePageSections.module.scss';
 function Second() {
   return (
     <Section variant="second" id="slots">
-      <Container variant="containerMainSecond">
+      <Container variant="containerMainSecond" className={styles.BG}>
         <div className={styles.textWrapSecond}>
           <h1 className={styles.title}>Our slots</h1>
           <p className={styles.text}>
