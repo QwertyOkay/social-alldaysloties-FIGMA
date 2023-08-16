@@ -129,7 +129,7 @@ const GooglePlayStoreIcon = () => (
 function GoogleButton() {
   return (
     <a
-      href="https://www.pragmaticplay.com/"
+      href="https://play.google.com/store/apps/details?id=com.games.jaguarkingslots"
       target="_blank"
       rel="noreferrer"
       className={styles.googleLink}
